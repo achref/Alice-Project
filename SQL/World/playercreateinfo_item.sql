@@ -30,6 +30,6 @@ CREATE TABLE `playercreateinfo_item` (
 -- ----------------------------
 -- Records of playercreateinfo_item
 -- ----------------------------
-INSERT INTO `playercreateinfo_item` VALUES ('0', '64', '46978', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '6', '46978', '-1');
 INSERT INTO `playercreateinfo_item` VALUES ('0', '0', '51809', '3');
 
