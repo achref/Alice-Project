@@ -18,3 +18,12 @@ CREATE TABLE `playercreateinfo_item` (
 INSERT INTO `playercreateinfo_item` VALUES ('0', '6', '46978', '-1');
 INSERT INTO `playercreateinfo_item` VALUES ('0', '0', '51809', '4');
 
+--ST Gerrier gladiateur implacable en plaques Niveau 251--
+INSERT INTO `playercreateinfo_item` VALUES ('0', '1', '40790', '1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '1', '40810', '1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '1', '40829', '1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '1', '40850', '1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '1', '40870', '1');
+
+
+
