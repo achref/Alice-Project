@@ -1,0 +1,2 @@
+Pour playercreateinfo_spell_custom.sql & playercreateinfo_spell.sql normallement tout est bonreste pour le moment 
+playercreateinfo_item.sql et le changement d'emplacement de départ des jouers dans la table playercreateinfo.sql
