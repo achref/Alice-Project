@@ -38,6 +38,12 @@ INSERT INTO `playercreateinfo_item` VALUES ('0', '2', '40831', '1');
 INSERT INTO `playercreateinfo_item` VALUES ('0', '2', '40852', '1');
 INSERT INTO `playercreateinfo_item` VALUES ('0', '2', '40872', '1');
 
+-- paladin supression de stuff prédifinie
+INSERT INTO `playercreateinfo_item` VALUES ('0', '2', '24145', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '2', '24146', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '2', '24143', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '2', '23364', '-1');
+
 -- S7 Paladin Rédemption de gladiateur implacable
 INSERT INTO `playercreateinfo_item` VALUES ('0', '2', '40910', '1');
 INSERT INTO `playercreateinfo_item` VALUES ('0', '2', '40928', '1');
