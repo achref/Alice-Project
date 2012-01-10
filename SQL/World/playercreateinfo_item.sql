@@ -97,9 +97,16 @@ INSERT INTO `playercreateinfo_item` VALUES ('0', '7', '41028', '1');
 INSERT INTO `playercreateinfo_item` VALUES ('0', '7', '41039', '1');
 
 -- S7 Mage Tenue de parade de gladiateur implacable
-INSERT INTO `playercreateinfo_item` VALUES ('0', '7', '41947', '1');
-INSERT INTO `playercreateinfo_item` VALUES ('0', '7', '41954', '1');
-INSERT INTO `playercreateinfo_item` VALUES ('0', '7', '41960', '1');
-INSERT INTO `playercreateinfo_item` VALUES ('0', '7', '41966', '1');
-INSERT INTO `playercreateinfo_item` VALUES ('0', '7', '41972', '1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '8', '41947', '1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '8', '41954', '1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '8', '41960', '1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '8', '41966', '1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '8', '41972', '1');
+
+-- S7 Démoniste Suaire gangréné de gladiateur implacable
+INSERT INTO `playercreateinfo_item` VALUES ('0', '9', '41994', '1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '9', '41999', '1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '9', '42006', '1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '9', '42012', '1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '9', '42018', '1');
 
