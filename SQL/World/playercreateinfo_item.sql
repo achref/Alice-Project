@@ -137,21 +137,22 @@ INSERT INTO `playercreateinfo_item` VALUES ('6', '3', '12282', '-1');
 INSERT INTO `playercreateinfo_item` VALUES ('6', '3', '2508', '-1'); -- supression de larme a feu qu on doit les changé
 INSERT INTO `playercreateinfo_item` VALUES ('6', '3', '2516', '-200'); -- supression des balles qu on doit les changé
 INSERT INTO `playercreateinfo_item` VALUES ('6', '3', '2102', '-1'); -- supression de sac des balles qu on doit la changé
-
-
-
-
-
-
-
-
-
--- S7 Chasseur Parure de gladiateur implacable
+-- Blood Elf Hunter
+INSERT INTO `playercreateinfo_item` VALUES ('10', '3', '20901', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('10', '3', '20899', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('10', '3', '20900', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('6', '3', '12282', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('10', '3', '20980', '-1'); -- supression de ARC qu on doit les changé
+INSERT INTO `playercreateinfo_item` VALUES ('10', '3', '2512', '-200'); -- supression des FLECHES qu on doit les changé
+INSERT INTO `playercreateinfo_item` VALUES ('10', '3', '2101', '-1'); -- supression de sac des FLECHE qu on doit la changé
+-- Ajout de S7 Chasseur Parure de gladiateur implacable
 INSERT INTO `playercreateinfo_item` VALUES ('0', '3', '41088', '1');
 INSERT INTO `playercreateinfo_item` VALUES ('0', '3', '41144', '1');
 INSERT INTO `playercreateinfo_item` VALUES ('0', '3', '41158', '1');
 INSERT INTO `playercreateinfo_item` VALUES ('0', '3', '41206', '1');
 INSERT INTO `playercreateinfo_item` VALUES ('0', '3', '41218', '1');
+
+
 
 -- S7 Voleur Habits de gladiateur implacable
 INSERT INTO `playercreateinfo_item` VALUES ('0', '4', '41651', '1');
