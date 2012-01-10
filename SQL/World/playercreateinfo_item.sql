@@ -1,8 +1,3 @@
-SET FOREIGN_KEY_CHECKS=0;
-
--- ----------------------------
--- Table structure for `playercreateinfo_item`
--- ----------------------------
 DROP TABLE IF EXISTS `playercreateinfo_item`;
 CREATE TABLE `playercreateinfo_item` (
   `race` tinyint(3) unsigned NOT NULL DEFAULT '0',
@@ -16,15 +11,18 @@ CREATE TABLE `playercreateinfo_item` (
 -- Records of playercreateinfo_item
 -- ----------------------------
 INSERT INTO `playercreateinfo_item` VALUES ('0', '6', '46978', '-1');
-INSERT INTO `playercreateinfo_item` VALUES ('0', '0', '51809', '3'); -- ajout de 3 troue portable uniquement pour tout les classe
 
--- Gerrier supression de stuff prédifinie
-INSERT INTO `playercreateinfo_item` VALUES ('0', '1', '139', '-1'); 
-INSERT INTO `playercreateinfo_item` VALUES ('0', '1', '140', '-1');
-INSERT INTO `playercreateinfo_item` VALUES ('0', '1', '12282', '-1');
-INSERT INTO `playercreateinfo_item` VALUES ('0', '1', '6125', '-1');
 
-INSERT INTO `playercreateinfo_item` VALUES ('0', '1', '51809', '1');-- ajout de 4emme troue portable
+-- Gerrier modification de stuff prédifine
+--Human Warrior
+INSERT INTO `playercreateinfo_item` VALUES ('1', '1', '51809', '4');-- ajout de 4troue portable
+INSERT INTO `playercreateinfo_item` VALUES ('1', '1', '39', '-1'); 
+INSERT INTO `playercreateinfo_item` VALUES ('1', '1', '40', '-1'); 
+INSERT INTO `playercreateinfo_item` VALUES ('1', '1', '38', '-1'); 
+INSERT INTO `playercreateinfo_item` VALUES ('1', '1', '49778', '-1'); 
+
+
+
 
 -- S7 Gerrier gladiateur implacable en plaques
 INSERT INTO `playercreateinfo_item` VALUES ('0', '1', '40790', '1');
