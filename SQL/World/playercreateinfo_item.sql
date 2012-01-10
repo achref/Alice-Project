@@ -31,6 +31,12 @@ INSERT INTO `playercreateinfo_item` VALUES ('0', '1', '40829', '1');
 INSERT INTO `playercreateinfo_item` VALUES ('0', '1', '40850', '1');
 INSERT INTO `playercreateinfo_item` VALUES ('0', '1', '40870', '1');
 
+-- paladin supression de stuff prédifinie
+INSERT INTO `playercreateinfo_item` VALUES ('0', '2', '24145', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '2', '24146', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '2', '24143', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '2', '23364', '-1');
+
 -- S7 Paladin Justification de gladiateur implacable
 INSERT INTO `playercreateinfo_item` VALUES ('0', '2', '40792', '1');
 INSERT INTO `playercreateinfo_item` VALUES ('0', '2', '40812', '1');
@@ -38,18 +44,25 @@ INSERT INTO `playercreateinfo_item` VALUES ('0', '2', '40831', '1');
 INSERT INTO `playercreateinfo_item` VALUES ('0', '2', '40852', '1');
 INSERT INTO `playercreateinfo_item` VALUES ('0', '2', '40872', '1');
 
--- paladin supression de stuff prédifinie
-INSERT INTO `playercreateinfo_item` VALUES ('0', '2', '24145', '-1');
-INSERT INTO `playercreateinfo_item` VALUES ('0', '2', '24146', '-1');
-INSERT INTO `playercreateinfo_item` VALUES ('0', '2', '24143', '-1');
-INSERT INTO `playercreateinfo_item` VALUES ('0', '2', '23364', '-1');
-
 -- S7 Paladin Rédemption de gladiateur implacable
 INSERT INTO `playercreateinfo_item` VALUES ('0', '2', '40910', '1');
 INSERT INTO `playercreateinfo_item` VALUES ('0', '2', '40928', '1');
 INSERT INTO `playercreateinfo_item` VALUES ('0', '2', '40934', '1');
 INSERT INTO `playercreateinfo_item` VALUES ('0', '2', '40940', '1');
 INSERT INTO `playercreateinfo_item` VALUES ('0', '2', '40964', '1');
+
+-- Chasseur supression de stuff prédifinie
+INSERT INTO `playercreateinfo_item` VALUES ('0', '3', '20899', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '3', '20900', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '3', '20901', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '3', '23364', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '3', '12282', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '3', '41206', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '3', '51809', '-1'); --supression dune troue portable
+INSERT INTO `playercreateinfo_item` VALUES ('0', '3', '2101', '-1'); --supression de Carquuois des fléches défine par défaut
+INSERT INTO `playercreateinfo_item` VALUES ('0', '3', '18714', '-1'); --ajout de Carquuois des fléches 24 emplacement
+INSERT INTO `playercreateinfo_item` VALUES ('0', '3', '2512', '-200'); --suppression des fléches définie par défaut
+INSERT INTO `playercreateinfo_item` VALUES ('0', '3', '18714', '-1'); --ajout de Carquuois des fléches 24 emplacement
 
 -- S7 Chasseur Parure de gladiateur implacable
 INSERT INTO `playercreateinfo_item` VALUES ('0', '3', '41088', '1');
