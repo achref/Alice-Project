@@ -96,5 +96,10 @@ INSERT INTO `playercreateinfo_item` VALUES ('0', '7', '41014', '1');
 INSERT INTO `playercreateinfo_item` VALUES ('0', '7', '41028', '1');
 INSERT INTO `playercreateinfo_item` VALUES ('0', '7', '41039', '1');
 
-
+-- S7 Mage Tenue de parade de gladiateur implacable
+INSERT INTO `playercreateinfo_item` VALUES ('0', '7', '41947', '1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '7', '41954', '1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '7', '41960', '1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '7', '41966', '1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '7', '41972', '1');
 
