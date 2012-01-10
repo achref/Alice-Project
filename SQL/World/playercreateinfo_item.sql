@@ -106,6 +106,37 @@ INSERT INTO `playercreateinfo_item` VALUES ('3', '3', '12282', '-1');
 INSERT INTO `playercreateinfo_item` VALUES ('3', '3', '2508', '-1'); -- supression de larme a feu qu on doit les changé
 INSERT INTO `playercreateinfo_item` VALUES ('3', '3', '2516', '-200'); -- supression des balles qu on doit les changé
 INSERT INTO `playercreateinfo_item` VALUES ('3', '3', '2102', '-1'); -- supression de sac des balles qu on doit la changé
+-- Night Elf Hunter
+INSERT INTO `playercreateinfo_item` VALUES ('4', '3', '148', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('4', '3', '147', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('4', '3', '129', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('4', '3', '12282', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('4', '3', '2504', '-1'); -- supression de ARC qu on doit les changé
+INSERT INTO `playercreateinfo_item` VALUES ('4', '3', '2512', '-200'); -- supression des FLECHES qu on doit les changé
+INSERT INTO `playercreateinfo_item` VALUES ('4', '3', '2101', '-1'); -- supression de sac des FLECHE qu on doit la changé
+-- Draenei Hunter
+INSERT INTO `playercreateinfo_item` VALUES ('11', '3', '23345', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('11', '3', '23344', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('11', '3', '23348', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('11', '3', '12282', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('11', '3', '12247', '-1'); -- supression de ARC qu on doit les changé
+INSERT INTO `playercreateinfo_item` VALUES ('11', '3', '2512', '-200'); -- supression des FLECHES qu on doit les changé
+INSERT INTO `playercreateinfo_item` VALUES ('11', '3', '2101', '-1'); -- supression de sac des FLECHE qu on doit la changé
+-- Orc Hunter
+INSERT INTO `playercreateinfo_item` VALUES ('2', '3', '127', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('2', '3', '6126', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('2', '3', '6127', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('2', '3', '12282', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('2', '3', '2504', '-1'); -- supression de ARC qu on doit les changé
+INSERT INTO `playercreateinfo_item` VALUES ('2', '3', '2512', '-200'); -- supression des FLECHES qu on doit les changé
+INSERT INTO `playercreateinfo_item` VALUES ('2', '3', '2101', '-1'); -- supression de sac des FLECHE qu on doit la changé
+-- Tauren Hunter
+INSERT INTO `playercreateinfo_item` VALUES ('6', '3', '127', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('6', '3', '6126', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('6', '3', '12282', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('6', '3', '2508', '-1'); -- supression de larme a feu qu on doit les changé
+INSERT INTO `playercreateinfo_item` VALUES ('6', '3', '2516', '-200'); -- supression des balles qu on doit les changé
+INSERT INTO `playercreateinfo_item` VALUES ('6', '3', '2102', '-1'); -- supression de sac des balles qu on doit la changé
 
 
 
