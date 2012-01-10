@@ -11,10 +11,8 @@ CREATE TABLE `playercreateinfo_item` (
 -- Records of playercreateinfo_item
 -- ----------------------------
 INSERT INTO `playercreateinfo_item` VALUES ('0', '6', '46978', '-1');
-
-
 -- Gerrier modification de stuff prédifine
-INSERT INTO `playercreateinfo_item` VALUES ('0', '1', '51809', '4'); -- ajout de 4troue portable pout tt les race gerrier
+INSERT INTO `playercreateinfo_item` VALUES ('0', '1', '51809', '4'); -- ajout de 4troue portable pout toutes les race gerrier
 -- Human Warrior
 INSERT INTO `playercreateinfo_item` VALUES ('1', '1', '39', '-1'); 
 INSERT INTO `playercreateinfo_item` VALUES ('1', '1', '40', '-1'); 
@@ -25,12 +23,41 @@ INSERT INTO `playercreateinfo_item` VALUES ('3', '1', '38', '-1');
 INSERT INTO `playercreateinfo_item` VALUES ('3', '1', '12282', '-1'); 
 INSERT INTO `playercreateinfo_item` VALUES ('3', '1', '39', '-1'); 
 INSERT INTO `playercreateinfo_item` VALUES ('3', '1', '40', '-1'); 
-
-
-
-
-
--- S7 Gerrier gladiateur implacable en plaques
+-- Night Elf Warrior
+INSERT INTO `playercreateinfo_item` VALUES ('4', '1', '6120', '-1'); 
+INSERT INTO `playercreateinfo_item` VALUES ('4', '1', '6121', '-1'); 
+INSERT INTO `playercreateinfo_item` VALUES ('4', '1', '6122', '-1'); 
+INSERT INTO `playercreateinfo_item` VALUES ('4', '1', '49778', '-1');
+-- Gnome Warrior
+INSERT INTO `playercreateinfo_item` VALUES ('7', '1', '38', '-1'); 
+INSERT INTO `playercreateinfo_item` VALUES ('7', '1', '39', '-1'); 
+INSERT INTO `playercreateinfo_item` VALUES ('7', '1', '40', '-1'); 
+INSERT INTO `playercreateinfo_item` VALUES ('7', '1', '49778', '-1');
+-- Draenei Warrior
+INSERT INTO `playercreateinfo_item` VALUES ('11', '1', '23473', '-1'); 
+INSERT INTO `playercreateinfo_item` VALUES ('11', '1', '23346', '-1'); 
+INSERT INTO `playercreateinfo_item` VALUES ('11', '1', '23474', '-1'); 
+INSERT INTO `playercreateinfo_item` VALUES ('11', '1', '23475', '-1');
+-- Orc Warrior
+INSERT INTO `playercreateinfo_item` VALUES ('2', '1', '6125', '-1'); 
+INSERT INTO `playercreateinfo_item` VALUES ('2', '1', '12282', '-1'); 
+INSERT INTO `playercreateinfo_item` VALUES ('2', '1', '139', '-1'); 
+INSERT INTO `playercreateinfo_item` VALUES ('2', '1', '140', '-1');
+-- Undead Warrior
+INSERT INTO `playercreateinfo_item` VALUES ('5', '1', '6125', '-1'); 
+INSERT INTO `playercreateinfo_item` VALUES ('5', '1', '49778', '-1'); 
+INSERT INTO `playercreateinfo_item` VALUES ('5', '1', '139', '-1'); 
+INSERT INTO `playercreateinfo_item` VALUES ('5', '1', '140', '-1');
+-- Tauren Warrior
+INSERT INTO `playercreateinfo_item` VALUES ('6', '1', '6125', '-1'); 
+INSERT INTO `playercreateinfo_item` VALUES ('6', '1', '2361', '-1'); 
+INSERT INTO `playercreateinfo_item` VALUES ('6', '1', '139', '-1'); 
+-- Troll Warrior
+INSERT INTO `playercreateinfo_item` VALUES ('8', '1', '6125', '-1'); 
+INSERT INTO `playercreateinfo_item` VALUES ('8', '1', '25861', '-1'); 
+INSERT INTO `playercreateinfo_item` VALUES ('8', '1', '139', '-1'); 
+INSERT INTO `playercreateinfo_item` VALUES ('8', '1', '49778', '-1');
+-- Ajout de S7 Gerrier gladiateur implacable en plaques
 INSERT INTO `playercreateinfo_item` VALUES ('0', '1', '40790', '1');
 INSERT INTO `playercreateinfo_item` VALUES ('0', '1', '40810', '1');
 INSERT INTO `playercreateinfo_item` VALUES ('0', '1', '40829', '1');
@@ -38,25 +65,41 @@ INSERT INTO `playercreateinfo_item` VALUES ('0', '1', '40850', '1');
 INSERT INTO `playercreateinfo_item` VALUES ('0', '1', '40870', '1');
 
 -- paladin supression de stuff prédifinie
-INSERT INTO `playercreateinfo_item` VALUES ('0', '2', '24145', '-1');
-INSERT INTO `playercreateinfo_item` VALUES ('0', '2', '24146', '-1');
-INSERT INTO `playercreateinfo_item` VALUES ('0', '2', '24143', '-1');
-INSERT INTO `playercreateinfo_item` VALUES ('0', '2', '23364', '-1');
-
-
--- S7 Paladin Justification de gladiateur implacable
+INSERT INTO `playercreateinfo_item` VALUES ('0', '2', '51809', '4'); -- ajout de 4troue portable pout toutes les race paladin
+-- Human Paladin
+INSERT INTO `playercreateinfo_item` VALUES ('1', '2', '45', '-1'); 
+INSERT INTO `playercreateinfo_item` VALUES ('1', '2', '2361', '-1'); 
+INSERT INTO `playercreateinfo_item` VALUES ('1', '2', '43', '-1'); 
+INSERT INTO `playercreateinfo_item` VALUES ('1', '2', '44', '-1'); 
+-- Dwarf Paladin
+INSERT INTO `playercreateinfo_item` VALUES ('3', '2', '6117', '-1'); 
+INSERT INTO `playercreateinfo_item` VALUES ('3', '2', '2361', '-1'); 
+INSERT INTO `playercreateinfo_item` VALUES ('3', '2', '6118', '-1'); 
+INSERT INTO `playercreateinfo_item` VALUES ('3', '2', '43', '-1');
+-- Draenei Paladin
+INSERT INTO `playercreateinfo_item` VALUES ('11', '2', '23473', '-1'); 
+INSERT INTO `playercreateinfo_item` VALUES ('11', '2', '23346', '-1'); 
+INSERT INTO `playercreateinfo_item` VALUES ('11', '2', '23474', '-1'); 
+INSERT INTO `playercreateinfo_item` VALUES ('11', '2', '23475', '-1');
+-- Blood Elf Paladin
+INSERT INTO `playercreateinfo_item` VALUES ('10', '2', '23346', '-1'); 
+-- Ajout de S7 Paladin Justification de gladiateur implacable
 INSERT INTO `playercreateinfo_item` VALUES ('0', '2', '40792', '1');
 INSERT INTO `playercreateinfo_item` VALUES ('0', '2', '40812', '1');
 INSERT INTO `playercreateinfo_item` VALUES ('0', '2', '40831', '1');
 INSERT INTO `playercreateinfo_item` VALUES ('0', '2', '40852', '1');
 INSERT INTO `playercreateinfo_item` VALUES ('0', '2', '40872', '1');
-
--- S7 Paladin Rédemption de gladiateur implacable
+-- Ajout de S7 Paladin Rédemption de gladiateur implacable
 INSERT INTO `playercreateinfo_item` VALUES ('0', '2', '40910', '1');
 INSERT INTO `playercreateinfo_item` VALUES ('0', '2', '40928', '1');
 INSERT INTO `playercreateinfo_item` VALUES ('0', '2', '40934', '1');
 INSERT INTO `playercreateinfo_item` VALUES ('0', '2', '40940', '1');
 INSERT INTO `playercreateinfo_item` VALUES ('0', '2', '40964', '1');
+
+
+
+
+
 
 -- Chasseur supression de stuff prédifinie
 INSERT INTO `playercreateinfo_item` VALUES ('0', '3', '20899', '-1');
