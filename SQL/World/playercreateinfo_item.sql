@@ -14,8 +14,8 @@ INSERT INTO `playercreateinfo_item` VALUES ('0', '6', '46978', '-1');
 
 
 -- Gerrier modification de stuff prédifine
---Human Warrior
-INSERT INTO `playercreateinfo_item` VALUES ('1', '1', '51809', '4');-- ajout de 4troue portable
+-- Human Warrior
+INSERT INTO `playercreateinfo_item` VALUES ('1', '1', '51809', '4'); -- ajout de 4troue portable
 INSERT INTO `playercreateinfo_item` VALUES ('1', '1', '39', '-1'); 
 INSERT INTO `playercreateinfo_item` VALUES ('1', '1', '40', '-1'); 
 INSERT INTO `playercreateinfo_item` VALUES ('1', '1', '38', '-1'); 
