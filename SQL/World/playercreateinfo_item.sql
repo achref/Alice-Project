@@ -18,6 +18,11 @@ CREATE TABLE `playercreateinfo_item` (
 INSERT INTO `playercreateinfo_item` VALUES ('0', '6', '46978', '-1');
 INSERT INTO `playercreateinfo_item` VALUES ('0', '0', '51809', '4');
 
+-- Gerrier supression de stuff prédifinie
+INSERT INTO `playercreateinfo_item` VALUES ('0', '1', '139', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '1', '140', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '1', '12282', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '1', '6125', '-1');
 
 -- S7 Gerrier gladiateur implacable en plaques
 INSERT INTO `playercreateinfo_item` VALUES ('0', '1', '40790', '1');
