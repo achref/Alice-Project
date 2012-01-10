@@ -12,7 +12,7 @@ CREATE TABLE `playercreateinfo_item` (
 -- ----------------------------
 INSERT INTO `playercreateinfo_item` VALUES ('0', '6', '46978', '-1');
 -- Gerrier modification de stuff prédifine
-INSERT INTO `playercreateinfo_item` VALUES ('0', '1', '51809', '4'); -- ajout de 4troue portable pout toutes les race gerrier
+INSERT INTO `playercreateinfo_item` VALUES ('0', '1', '51809', '4'); -- ajout de 4troue portable pour toutes les race gerrier
 -- Human Warrior
 INSERT INTO `playercreateinfo_item` VALUES ('1', '1', '39', '-1'); 
 INSERT INTO `playercreateinfo_item` VALUES ('1', '1', '40', '-1'); 
@@ -65,7 +65,7 @@ INSERT INTO `playercreateinfo_item` VALUES ('0', '1', '40850', '1');
 INSERT INTO `playercreateinfo_item` VALUES ('0', '1', '40870', '1');
 
 -- paladin supression de stuff prédifinie
-INSERT INTO `playercreateinfo_item` VALUES ('0', '2', '51809', '4'); -- ajout de 4troue portable pout toutes les race paladin
+INSERT INTO `playercreateinfo_item` VALUES ('0', '2', '51809', '4'); -- ajout de 4troue portable pour toutes les race paladin
 -- Human Paladin
 INSERT INTO `playercreateinfo_item` VALUES ('1', '2', '45', '-1'); 
 INSERT INTO `playercreateinfo_item` VALUES ('1', '2', '2361', '-1'); 
@@ -96,23 +96,24 @@ INSERT INTO `playercreateinfo_item` VALUES ('0', '2', '40934', '1');
 INSERT INTO `playercreateinfo_item` VALUES ('0', '2', '40940', '1');
 INSERT INTO `playercreateinfo_item` VALUES ('0', '2', '40964', '1');
 
-
-
-
-
-
 -- Chasseur supression de stuff prédifinie
-INSERT INTO `playercreateinfo_item` VALUES ('0', '3', '20899', '-1');
-INSERT INTO `playercreateinfo_item` VALUES ('0', '3', '20900', '-1');
-INSERT INTO `playercreateinfo_item` VALUES ('0', '3', '20901', '-1');
-INSERT INTO `playercreateinfo_item` VALUES ('0', '3', '23364', '-1');
-INSERT INTO `playercreateinfo_item` VALUES ('0', '3', '12282', '-1');
-INSERT INTO `playercreateinfo_item` VALUES ('0', '3', '41206', '-1');
-INSERT INTO `playercreateinfo_item` VALUES ('0', '3', '2512', '-200');
-INSERT INTO `playercreateinfo_item` VALUES ('0', '3', '20980', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '3', '51809', '3'); -- ajout de 3troue portable pour toutes les race chasseur
+-- Dwarf Hunter
+INSERT INTO `playercreateinfo_item` VALUES ('3', '3', '148', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('3', '3', '147', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('3', '3', '129', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('3', '3', '12282', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('3', '3', '2508', '-1'); -- supression de larme a feu qu on doit les changé
+INSERT INTO `playercreateinfo_item` VALUES ('3', '3', '2516', '-200'); -- supression des balles qu on doit les changé
+INSERT INTO `playercreateinfo_item` VALUES ('3', '3', '2102', '-1'); -- supression de sac des balles qu on doit la changé
 
-INSERT INTO `playercreateinfo_item` VALUES ('0', '3', '2101', '-1'); -- supression de Carquuois des fléches défine par défaut
-INSERT INTO `playercreateinfo_item` VALUES ('0', '3', '18714', '1'); -- ajout de Carquuois des fléches 24 emplacement
+
+
+
+
+
+
+
 
 -- S7 Chasseur Parure de gladiateur implacable
 INSERT INTO `playercreateinfo_item` VALUES ('0', '3', '41088', '1');
