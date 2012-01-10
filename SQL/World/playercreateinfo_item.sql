@@ -14,12 +14,18 @@ INSERT INTO `playercreateinfo_item` VALUES ('0', '6', '46978', '-1');
 
 
 -- Gerrier modification de stuff prédifine
+INSERT INTO `playercreateinfo_item` VALUES ('0', '1', '51809', '4'); -- ajout de 4troue portable pout tt les race gerrier
 -- Human Warrior
-INSERT INTO `playercreateinfo_item` VALUES ('1', '1', '51809', '4'); -- ajout de 4troue portable
 INSERT INTO `playercreateinfo_item` VALUES ('1', '1', '39', '-1'); 
 INSERT INTO `playercreateinfo_item` VALUES ('1', '1', '40', '-1'); 
 INSERT INTO `playercreateinfo_item` VALUES ('1', '1', '38', '-1'); 
 INSERT INTO `playercreateinfo_item` VALUES ('1', '1', '49778', '-1'); 
+-- Dwarf Warrior
+INSERT INTO `playercreateinfo_item` VALUES ('3', '1', '38', '-1'); 
+INSERT INTO `playercreateinfo_item` VALUES ('3', '1', '12282', '-1'); 
+INSERT INTO `playercreateinfo_item` VALUES ('3', '1', '39', '-1'); 
+INSERT INTO `playercreateinfo_item` VALUES ('3', '1', '40', '-1'); 
+
 
 
 
@@ -37,7 +43,6 @@ INSERT INTO `playercreateinfo_item` VALUES ('0', '2', '24146', '-1');
 INSERT INTO `playercreateinfo_item` VALUES ('0', '2', '24143', '-1');
 INSERT INTO `playercreateinfo_item` VALUES ('0', '2', '23364', '-1');
 
-INSERT INTO `playercreateinfo_item` VALUES ('0', '1', '51809', '1');-- ajout de 4emme troue portable
 
 -- S7 Paladin Justification de gladiateur implacable
 INSERT INTO `playercreateinfo_item` VALUES ('0', '2', '40792', '1');
