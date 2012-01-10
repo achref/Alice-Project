@@ -58,11 +58,11 @@ INSERT INTO `playercreateinfo_item` VALUES ('0', '3', '20901', '-1');
 INSERT INTO `playercreateinfo_item` VALUES ('0', '3', '23364', '-1');
 INSERT INTO `playercreateinfo_item` VALUES ('0', '3', '12282', '-1');
 INSERT INTO `playercreateinfo_item` VALUES ('0', '3', '41206', '-1');
-INSERT INTO `playercreateinfo_item` VALUES ('0', '3', '51809', '-1'); --supression dune troue portable
-INSERT INTO `playercreateinfo_item` VALUES ('0', '3', '2101', '-1'); --supression de Carquuois des fléches défine par défaut
-INSERT INTO `playercreateinfo_item` VALUES ('0', '3', '18714', '1'); --ajout de Carquuois des fléches 24 emplacement
-INSERT INTO `playercreateinfo_item` VALUES ('0', '3', '2512', '-200'); --suppression des fléches définie par défaut
-INSERT INTO `playercreateinfo_item` VALUES ('0', '3', '18714', '1'); --ajout de Carquuois des fléches 24 emplacement
+INSERT INTO `playercreateinfo_item` VALUES ('0', '3', '51809', '-1'); -- supression dune troue portable
+INSERT INTO `playercreateinfo_item` VALUES ('0', '3', '2101', '-1'); -- supression de Carquuois des fléches défine par défaut
+INSERT INTO `playercreateinfo_item` VALUES ('0', '3', '18714', '1'); -- ajout de Carquuois des fléches 24 emplacement
+INSERT INTO `playercreateinfo_item` VALUES ('0', '3', '2512', '-200'); -- suppression des fléches définie par défaut
+INSERT INTO `playercreateinfo_item` VALUES ('0', '3', '18714', '1'); -- ajout de Carquuois des fléches 24 emplacement
 
 -- S7 Chasseur Parure de gladiateur implacable
 INSERT INTO `playercreateinfo_item` VALUES ('0', '3', '41088', '1');
